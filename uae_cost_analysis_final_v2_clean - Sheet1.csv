@@ -1,0 +1,85 @@
+City,Market Tier,Scenario,Amenity Score,Commute Time,Expense Category,Cost,Salary
+Dubai,Tier 1,Shared,10,45,Rent,2500,15160
+Dubai,Tier 1,Shared,10,45,Food,900,15160
+Dubai,Tier 1,Shared,10,45,Transport,350,15160
+Dubai,Tier 1,Shared,10,45,Utilities,80,15160
+Dubai,Tier 1,1BHK,10,45,Rent,6962,15160
+Dubai,Tier 1,1BHK,10,45,Food,1400,15160
+Dubai,Tier 1,1BHK,10,45,Transport,350,15160
+Dubai,Tier 1,1BHK,10,45,Utilities,1000,15160
+Dubai,Tier 1,Family,10,45,Rent,7500,15160
+Dubai,Tier 1,Family,10,45,Food,3200,15160
+Dubai,Tier 1,Family,10,45,Transport,500,15160
+Dubai,Tier 1,Family,10,45,Utilities,1700,15160
+Abu Dhabi,Tier 1,Shared,10,25,Rent,2200,12000
+Abu Dhabi,Tier 1,Shared,10,25,Food,850,12000
+Abu Dhabi,Tier 1,Shared,10,25,Transport,95,12000
+Abu Dhabi,Tier 1,Shared,10,25,Utilities,80,12000
+Abu Dhabi,Tier 1,1BHK,10,25,Rent,6128,12000
+Abu Dhabi,Tier 1,1BHK,10,25,Food,1300,12000
+Abu Dhabi,Tier 1,1BHK,10,25,Transport,95,12000
+Abu Dhabi,Tier 1,1BHK,10,25,Utilities,1000,12000
+Abu Dhabi,Tier 1,Family,10,25,Rent,6500,12000
+Abu Dhabi,Tier 1,Family,10,25,Food,3000,12000
+Abu Dhabi,Tier 1,Family,10,25,Transport,350,12000
+Abu Dhabi,Tier 1,Family,10,25,Utilities,1600,12000
+Sharjah,Tier 2,Shared,8,85,Rent,1500,8000
+Sharjah,Tier 2,Shared,8,85,Food,800,8000
+Sharjah,Tier 2,Shared,8,85,Transport,150,8000
+Sharjah,Tier 2,Shared,8,85,Utilities,80,8000
+Sharjah,Tier 2,1BHK,8,85,Rent,2947,8000
+Sharjah,Tier 2,1BHK,8,85,Food,1100,8000
+Sharjah,Tier 2,1BHK,8,85,Transport,150,8000
+Sharjah,Tier 2,1BHK,8,85,Utilities,1000,8000
+Sharjah,Tier 2,Family,8,85,Rent,4000,8000
+Sharjah,Tier 2,Family,8,85,Food,2500,8000
+Sharjah,Tier 2,Family,8,85,Transport,250,8000
+Sharjah,Tier 2,Family,8,85,Utilities,1500,8000
+Fujairah,Tier 3,Shared,5,35,Rent,1200,9500
+Fujairah,Tier 3,Shared,5,35,Food,800,9500
+Fujairah,Tier 3,Shared,5,35,Transport,150,9500
+Fujairah,Tier 3,Shared,5,35,Utilities,80,9500
+Fujairah,Tier 3,1BHK,5,35,Rent,2058,9500
+Fujairah,Tier 3,1BHK,5,35,Food,1000,9500
+Fujairah,Tier 3,1BHK,5,35,Transport,150,9500
+Fujairah,Tier 3,1BHK,5,35,Utilities,1000,9500
+Fujairah,Tier 3,Family,5,35,Rent,3000,9500
+Fujairah,Tier 3,Family,5,35,Food,2300,9500
+Fujairah,Tier 3,Family,5,35,Transport,250,9500
+Fujairah,Tier 3,Family,5,35,Utilities,1400,9500
+Ras Al Khaimah,Tier 3,Shared,6,30,Rent,1400,6000
+Ras Al Khaimah,Tier 3,Shared,6,30,Food,850,6000
+Ras Al Khaimah,Tier 3,Shared,6,30,Transport,300,6000
+Ras Al Khaimah,Tier 3,Shared,6,30,Utilities,80,6000
+Ras Al Khaimah,Tier 3,1BHK,6,30,Rent,2623,6000
+Ras Al Khaimah,Tier 3,1BHK,6,30,Food,1050,6000
+Ras Al Khaimah,Tier 3,1BHK,6,30,Transport,300,6000
+Ras Al Khaimah,Tier 3,1BHK,6,30,Utilities,1000,6000
+Ras Al Khaimah,Tier 3,Family,6,30,Rent,3500,6000
+Ras Al Khaimah,Tier 3,Family,6,30,Food,2300,6000
+Ras Al Khaimah,Tier 3,Family,6,30,Transport,400,6000
+Ras Al Khaimah,Tier 3,Family,6,30,Utilities,1400,6000
+Umm Al Quwain,Tier 3,Shared,4,40,Rent,1200,7500
+Umm Al Quwain,Tier 3,Shared,4,40,Food,800,7500
+Umm Al Quwain,Tier 3,Shared,4,40,Transport,200,7500
+Umm Al Quwain,Tier 3,Shared,4,40,Utilities,80,7500
+Umm Al Quwain,Tier 3,1BHK,4,40,Rent,2250,7500
+Umm Al Quwain,Tier 3,1BHK,4,40,Food,1000,7500
+Umm Al Quwain,Tier 3,1BHK,4,40,Transport,200,7500
+Umm Al Quwain,Tier 3,1BHK,4,40,Utilities,1000,7500
+Umm Al Quwain,Tier 3,Family,4,40,Rent,3000,7500
+Umm Al Quwain,Tier 3,Family,4,40,Food,2200,7500
+Umm Al Quwain,Tier 3,Family,4,40,Transport,300,7500
+Umm Al Quwain,Tier 3,Family,4,40,Utilities,1400,7500
+Ajman,Tier 2,Shared,7,100,Rent,1600,8000
+Ajman,Tier 2,Shared,7,100,Food,800,8000
+Ajman,Tier 2,Shared,7,100,Transport,250,8000
+Ajman,Tier 2,Shared,7,100,Utilities,80,8000
+Ajman,Tier 2,1BHK,7,100,Rent,4500,8000
+Ajman,Tier 2,1BHK,7,100,Food,1000,8000
+Ajman,Tier 2,1BHK,7,100,Transport,250,8000
+Ajman,Tier 2,1BHK,7,100,Utilities,1000,8000
+Ajman,Tier 2,Family,7,100,Rent,5500,8000
+Ajman,Tier 2,Family,7,100,Food,2300,8000
+Ajman,Tier 2,Family,7,100,Transport,400,8000
+Ajman,Tier 2,Family,7,100,Utilities,1500,8000
